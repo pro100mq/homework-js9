@@ -66,7 +66,7 @@ if (numbers.length > 0) {
     for (const num of numbers) {
         total += num;
     }
-    console.log(`Загальна сума чисел дорівнює ${total}`);
+    console.log(`Загальна сума чисел дорівнюєє ${total}`);
   } else {
     console.log('Масив порожній, немає чисел для підрахунку.');
 }
